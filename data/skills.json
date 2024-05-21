@@ -1,0 +1,29 @@
+{
+    "softSkills": [
+        "Web Development",
+        "Mobile Development",
+        "Database Administrator",
+        "Database Developer",
+        "Data Engineer",
+        "Statistical Analysis"
+    ],
+    "hardSkills": [
+        "Codeigniter",
+        "Laravel",
+        "Django",
+        "MySQL",
+        "PostgreSQL",
+        "SQL Server",
+        "SQLite",
+        "Ionic Framework",
+        "Android Studio",
+        "AngularJS",
+        "ReactJS",
+        "NodeJS",
+        "Ubuntu Server",
+        "Windows Server",
+        "ExpressJS",
+        "Websocket",
+        "Git"
+    ]
+}

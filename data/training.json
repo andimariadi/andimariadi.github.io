@@ -1,0 +1,52 @@
+{
+    "training": [
+        {
+            "year": "2023",
+            "data": [
+                {
+                    "title": "Ministry of Energy and Mineral Resources (ESDM)",
+                    "description": "Pengawas Operasional Pertama (Frontline Operational Supervisor)"
+                },
+                {
+                    "title": "PT. SAPTAINDRA SEJATI SITE ADARO",
+                    "description": "Introduction Pengawas Operasional Pertama"
+                }
+            ]
+        },
+        {
+            "year": "2022",
+            "data": [
+                {
+                    "title": "PT. HEXAGON MINING",
+                    "description": "Jigsaw Asset Health Training"
+                },
+                {
+                    "title": "PT. INIXINDO JOGJA",
+                    "description": "Social Media Data Mining & Analysis"
+                }
+            ]
+        },
+        {
+            "year": "2019",
+            "data": [
+                {
+                    "title": "PT. Brainmatics Cipta Informatika",
+                    "description": "DATA MINING"
+                }
+            ]
+        },
+        {
+            "year": "2018",
+            "data": [
+                {
+                    "title": "PT. HEXAGON MINING",
+                    "description": "Jigsaw Data Structure Training"
+                },
+                {
+                    "title": "PT. INIXINDO JOGJA",
+                    "description": "MOC 20461: Querying Microsoft SQL Server 2014"
+                }
+            ]
+        }
+    ]
+}

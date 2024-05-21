@@ -1,0 +1,113 @@
+{
+    "achievements": [
+        {
+            "year": "2023",
+            "award": [
+                {
+                    "title": "Stream Support II INOVASIS",
+                    "description": "A Web and Android based Human Resource (HR) application to manage employees, employees administration, fingerprints, and attendance ratio.",
+                    "place": [
+                        {
+                            "number": "1",
+                            "symbols": "st",
+                            "name": "QCP",
+                            "type": "KONVENSI SITE",
+                            "company": "PT. SAPTAINDRA SEJATI"
+                        },
+                        {
+                            "number": "2",
+                            "symbols": "nd",
+                            "name": "QCP",
+                            "type": "KONVENSI NASIONAL",
+                            "company": "PT. SAPTAINDRA SEJATI"
+                        }
+                    ]
+                },
+                {
+                    "title": "Stream Operation INOVASIS",
+                    "description": "An application to increase ∆HM unit to reduce the frequency of refueling to reduce the number of hanging waiting fleet.",
+                    "place": [
+                        {
+                            "number": "3",
+                            "symbols": "rd",
+                            "name": "QCC",
+                            "type": "KONVENSI SITE",
+                            "company": "PT. SAPTAINDRA SEJATI"
+                        }
+                    ]
+                },
+                {
+                    "title": "Adaro Innovation Convention",
+                    "description": "Dashboard Production (DashPRO) is a real-time dashboard to visualized production data from Fleet Management System.",
+                    "place": [
+                        {
+                            "number": "3",
+                            "symbols": "rd",
+                            "name": "QCC",
+                            "type": "ITRB",
+                            "company": "PT. ADARO INDONESIA"
+                        }
+                    ]
+                }
+            ]
+
+        },
+        {
+            "year": "2021",
+            "award": [
+                {
+                    "title": "Stream Support INOVASIS",
+                    "description": "Management Control Program (MCP) is a Web and Mobile based applications to make real-time report such as hazard report, safety talk, safety behavior observation, inspection, custodian, and job safety analysis.",
+                    "place": [
+                        {
+                            "number": "1",
+                            "symbols": "st",
+                            "name": "QCP",
+                            "type": "KONVENSI NASIONAL",
+                            "company": "PT. SAPTAINDRA SEJATI"
+                        }
+                    ]
+                }
+            ]
+
+        },
+        {
+            "year": "2020",
+            "award": [
+                {
+                    "title": "Stream Support INOVASIS",
+                    "description": "Management Control Program (MCP) is a Web and Mobile based applications to make real-time report such as hazard report, safety talk, safety behavior observation, inspection, custodian, and job safety analysis.",
+                    "place": [
+                        {
+                            "number": "1",
+                            "symbols": "st",
+                            "name": "QCP",
+                            "type": "KONVENSI SITE",
+                            "company": "PT. SAPTAINDRA SEJATI"
+                        }
+                    ]
+                }
+            ]
+
+        },
+        {
+            "year": "2019",
+            "award": [
+                {
+                    "title": "Stream Support II INOVASIS",
+                    "description": "A Web and Android based application to monitor and manage unit breakdown in Plant Mining and Production Mining department to conduct high physical availablity in real-time.",
+                    "place": [
+                        {
+                            "number": "2",
+                            "symbols": "nd",
+                            "name": "QCP",
+                            "type": "KONVENSI SITE",
+                            "company": "PT. SAPTAINDRA SEJATI"
+                        }
+                    ]
+                }
+            ]
+
+        }
+    ]
+}

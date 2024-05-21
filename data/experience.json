@@ -1,0 +1,31 @@
+{
+    "experience": [
+        {
+            "year": "2021 - Present",
+            "position": "Supervisor Software Engineer",
+            "company": "PT. SAPTAINDRA SEJATI (Subsidiary PT ADARO ENERGY)",
+            "address": "South Kalimantan, Indonesia",
+            "jobdesc": [
+                "Supervise and lead software development teams;", "Design and implement software architecture;", "Debugging code and improving system performance;", "Documentation code dan deploy project web / mobile application;", "Manage Ubuntu servers for development;"
+            ]
+        },
+        {
+            "year": "2018 - 2021",
+            "position": "Software Engineer",
+            "company": "PT. SAPTAINDRA SEJATI (Subsidiary PT ADARO ENERGY)",
+            "address": "South Kalimantan, Indonesia",
+            "jobdesc": [
+                "Software development through programming, testing, and maintenance;", "Debugging code and improving system performance;", "Code documentation;"
+            ]
+        },
+        {
+            "year": "2017 - 2018",
+            "position": "Field Support Fleet Management System",
+            "company": "PT. SAPTAINDRA SEJATI (Subsidiary PT ADARO ENERGY)",
+            "address": "South Kalimantan, Indonesia",
+            "jobdesc": [
+                "Manage FMS networks and devices;", "Installation and configuration of FMS networks and devices;", "Maintenance of network devices and FMS devices;", "SQL Server data analyst;", "Manage FMS network and device job reports", "Monitoring FMS networks and devices"
+            ]
+        }
+    ]
+}
