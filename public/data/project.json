@@ -1,0 +1,82 @@
+{
+    "projects": [
+        {
+            "title": "MyMCP",
+            "description": "Management Control Program (MCP) is a Web and Mobile based applications to make real-time report such as hazard report, safety talk, safety behavior observation, inspection, custodian, and job safety analysis.",
+            "image": "assets/project/mymcp.png",
+            "category": "Codeigniter,MySQL,Javascript,Ionic Framework,Capacitor,Android Studio,Firebase"
+        },
+        {
+            "title": "My MCR",
+            "description": "A Web and Android based application to monitor and manage unit breakdown in Plant Mining and Production Mining department to conduct high physical availablity in real-time.",
+            "image": "assets/project/mcr.png",
+            "category": "Codeigniter, Javascript, Ionic Framework, Capacitor, Nodejs, ExpressJS, Websocket, MySQL, Telegram Bot, Firebase, Android Studio"
+        },
+        {
+            "title": "Reporting Daily",
+            "description": "An application used by FMS technicians to create daily reports.",
+            "image": "assets/project/reporting.png",
+            "category": "Codeigniter,MySQL,Javascript"
+        },
+        {
+            "title": "Battery",
+            "description": "A Web-based application and telegram bot to monitor batteries from MPPT Solar Panel on portable towers.",
+            "image": "assets/project/battery.png",
+            "category": "PHP, Rest API, Javascript, Telegram Bot"
+        },
+        {
+            "title": "MyMCR Hauling",
+            "description": "A Web and Android based application to monitor and manage Primemover and Vessel breakdown in the Plant Hauling and Production Hauling departments to conduct high physical availablity in real-time.",
+            "image": "assets/project/mcr-hauling.png",
+            "category": "Codeigniter, Javascript, MySQL"
+        },
+        {
+            "title": "Cico Crawler",
+            "description": "An application Rest-API fingerprint attendance from the Biostar database into the database Human Resources department.",
+            "image": "assets/project/rest-api.png",
+            "category": "Nodejs, ExpressJS, SQL Server"
+        },
+        {
+            "title": "Hourly Production",
+            "description": "A web based tools to record hourly Excavator Cycle Time production.",
+            "image": "assets/project/fleet.png",
+            "category": "Codeigniter, MySQL, Websocket"
+        },
+        {
+            "title": "HPR Mining",
+            "description": "A tools to crawl hourly data Excavator Cycle Time production from Excel to database.",
+            "image": "assets/project/hpr.png",
+            "category": "Python, Pandas, Excel, FTP, MySQL"
+        },
+        {
+            "title": "Bandwith Monitoring",
+            "description": "An Application to crawl data network from Infinet to database.",
+            "image": "assets/project/rest-api.png",
+            "category": "PHP, Curl, Rest-API, MySQL"
+        },
+        {
+            "title": "Grader Overview",
+            "description": "An application to report hourly grader operator based on unit status using Telegram bot.",
+            "image": "assets/project/grader-overview.png",
+            "category": "PHP, SQL Server, Telegram Bot"
+        },
+        {
+            "title": "MyHRS",
+            "description": "A Web and Android based Human Resource (HR) application to manage employees, employees administration, fingerprints, and attendance ratio.",
+            "image": "assets/project/myhr.png",
+            "category": "Codeigniter, SQL Server, Javascript, Rest API"
+        },
+        {
+            "title": "DashPRO",
+            "description": "A Web and Android based Human Resource (HR) application to manage employees, employees administration, fingerprints, and attendance ratio.",
+            "image": "assets/project/myhr.png",
+            "category": "PHP, Nodejs, ExpressJS, Websocket, Javascript, SQL Server, PostgreSQL, MySQL"
+        },
+        {
+            "title": "COMPRO",
+            "description": "A web base application to monitor and remind commissioning status of all unit.",
+            "image": "assets/project/compro.png",
+            "category": "Laravel, Flask, Javascript, SQL Server"
+        }
+    ]
+}
