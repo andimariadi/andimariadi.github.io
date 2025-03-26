@@ -1,6 +1,38 @@
 {
     "achievements": [
         {
+            "year": "2024",
+            "award": [
+                {
+                    "title": "Stream Operation INOVASIS",
+                    "description": "A web-based system for monitoring Operator-performance and detecting road surface conditions, aimed at improving vehicle safety, optimizing driving behavior, and ensuring better road maintenance.",
+                    "place": [
+                        {
+                            "number": "1",
+                            "symbols": "st",
+                            "name": "QCP",
+                            "type": "KONVENSI SITE",
+                            "company": "PT. SAPTAINDRA SEJATI"
+                        }
+                    ]
+                },
+                {
+                    "title": "Stream Support INOVASIS",
+                    "description": "A Web-based application to enhance catering order accuracy by maximizing the use of the My HR application, ensuring more precise order quantities and supporting company efficiency.",
+                    "place": [
+                        {
+                            "number": "2",
+                            "symbols": "nd",
+                            "name": "QCP",
+                            "type": "KONVENSI SITE",
+                            "company": "PT. SAPTAINDRA SEJATI"
+                        }
+                    ]
+                }
+            ]
+
+        },
+        {
             "year": "2023",
             "award": [
                 {
